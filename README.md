@@ -1,4 +1,4 @@
-👋 Hi, I'm Gustavo Aguiar, a Constant Learner and a Data Scientist from Brazil, currently working as a Data Scientist at LEADeR. Beside's programming, I enjoy listening music 🎧, playing guitar and ukulele, and sometimes i even try to compose some songs.
+👋 Hi, I'm Gustavo Aguiar, a constant learner and a Data Scientist from Brazil, currently working as a Data Scientist at LEADeR. Beside's programming, I enjoy listening music 🎧, playing guitar and ukulele, and sometimes i even try to compose some songs.
 * Feel free to contact me related to my songwriting work too.
 
 **Here's what you need to know about me:**
