@@ -3,7 +3,7 @@
 
 **Here's what you need to know about me:**
 
-* 💻 I'm learning how to use data scientist software (ETL, Software Engineering, Data Analysis, Modeling, Deployment). I recently completed a Nanodegree Data Science course through Udacity.
+* 💻 I'm learning how to use data scientist techs and approachs (ETL, Software Engineering, Data Analysis, Modeling, Deployment). I recently completed a Nanodegree Data Science course through Udacity.
 * 👨🏽‍💻 I'm currently working on Data Science with the goal of analyzing the operational behavior of the Blowout Preventer (BOP) used by oil & gas companies.
 * 👨🏽‍💻 Business Intelligence, Data Visualization/Analysis, and Text Mining are all areas in which I've previously worked.
 * 🌱 I'm currently researching and developing data products, such as data science web apps.
