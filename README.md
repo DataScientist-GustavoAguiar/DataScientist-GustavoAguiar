@@ -1,16 +1,16 @@
-👋 Hi, I'm Gustavo Aguiar, a constant learner and a Data Scientist from Brazil, currently working as a Data Scientist at LEADeR. Beside's programming, I enjoy listening music 🎧, playing guitar and ukulele, and sometimes i even try to compose some songs.
-* Feel free to contact me related to my songwriting work too.
+👋 Hi, I'm Gustavo Aguiar, a constant learner and a Data Scientist from Brazil, currently working as a Senior Data Scientist at Vert. Beside's programming, I enjoy listening music 🎧, playing guitar and ukulele, and sometimes i even try to compose some songs.
 
 **Here's what you need to know about me:**
 
-* 💻 I'm learning how to use data scientist techs and approachs (ETL, Software Engineering, Data Analysis, Modeling, Deployment). I recently completed a Nanodegree Data Science course through Udacity.
+* 💻 I'm learning how to use Machine Learning Engineering techs and approachs (ETL, Software Engineering, Data Analysis, Modeling, Deployment). I'm doing a Nanodegree Machine Learning Engineer course through Udacity. I'm already a Data Scientist by Udacity.
 * 👨🏽‍💻 I'm currently working on Data Science with the goal of analyzing the operational behavior of the Blowout Preventer (BOP) used by oil & gas companies.
-* 👨🏽‍💻 Business Intelligence, Data Visualization/Analysis, and Text Mining are all areas in which I've previously worked.
-* 🌱 I'm currently researching and developing data products, such as data science web apps.
-* 🐍 Python is one of my favorite programming languages. On Medium, I've published two articles. 
+* 👨🏽‍💻 I'm currently working on Data Science in big Data Science and Analytics projects for the public sector (Eletrobrás Holding [Eletrosul, Furnas, Eletronuclear, Chesf and Eletronorte] and Tribunal de Contas dos Municípios do Pará [TCM-PA]). It involves the construction of ETLs, ML Models and Business Intelligence Dashboards. We use Jupyterlab and SAS (SAS Visual Analytics, SAS Visual Text Miner, SAS VDMML and SAS Data Studio).
+* 👨🏽‍💻 Business Intelligence, Data Visualization/Analysis, Machine Learning, ETL, Text Mining are all areas in which I've previously worked.
+* 🌱 I'm currently researching and developing data products.
+* 🐍 Python is one of my favorite programming languages. On Medium, I've published some articles. 
 * 💬 Ask me anything, and I'll gladly assist you.
 * 📫 How to reach me: gustavoj.m.aguiar@outlook.com.
-* 💼 I'm looking for a Data Science and Analysis opportunity.
+* 💼 I'm looking for new Data Science and Analytics projects and opportunities.
 
 **Languages and Tools:**  
 
