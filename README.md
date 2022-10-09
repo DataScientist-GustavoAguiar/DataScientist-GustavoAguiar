@@ -2,7 +2,7 @@
 
 **Here's what you need to know about me:**
 
-* 💻 I'm learning how to use Machine Learning Engineering techs and approachs (ETL, Software Engineering, Data Analysis, Modeling, Deployment). I'm doing a Nanodegree Machine Learning Engineer course through Udacity. I'm already a Data Scientist by Udacity.
+* 💻 I'm learning how to use Machine Learning Engineering techs and approachs (ETL, Software Engineering, Data Analysis, Modeling, Deployment). I'm doing a Nanodegree Machine Learning Engineer course through Udacity. I'm already a Data Scientist graduated by Udacity.
 * 👨🏽‍💻 I'm currently working on Data Science with the goal of analyzing the operational behavior of the Blowout Preventer (BOP) used by oil & gas companies.
 * 👨🏽‍💻 I'm currently working on Data Science in big Data Science and Analytics projects for the public sector (Eletrobrás Holding [Eletrosul, Furnas, Eletronuclear, Chesf and Eletronorte] and Tribunal de Contas dos Municípios do Pará [TCM-PA]). It involves the construction of ETLs, ML Models and Business Intelligence Dashboards. We use Jupyterlab and SAS (SAS Visual Analytics, SAS Visual Text Miner, SAS VDMML and SAS Data Studio).
 * 👨🏽‍💻 Business Intelligence, Data Visualization/Analysis, Machine Learning, ETL, Text Mining are all areas in which I've previously worked.
